@@ -104,7 +104,7 @@ html, body, [class*="css"] {
 # LOAD MODEL + VECTORIZER
 # =========================================================
 
-MODELS_PATH = r"C:\Users\hemanjali\Desktop\clg enquiry chatbot\models"
+MODELS_PATH = "models"
 
 best_model = joblib.load(
     os.path.join(MODELS_PATH, "best_model.pkl")
