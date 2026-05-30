@@ -1,0 +1,27 @@
+tag,pattern,response
+greeting,Hi,Hello! How can I help you today?
+greeting,Hello,Hello! How can I help you today?
+greeting,Hey,Hello! How can I help you today?
+greeting,Good morning,Hello! How can I help you today?
+greeting,Good evening,Hello! How can I help you today?
+greeting,How are you,Hello! How can I help you today?
+admission,What is the admission process?,Admissions are based on TS EAMCET. Please visit our official website for complete details.
+admission,How to apply for B.Tech?,Admissions are based on TS EAMCET. Please visit our official website for complete details.
+admission,Admission dates?,Admissions are based on TS EAMCET. Please visit our official website for complete details.
+admission,Eligibility criteria,Admissions are based on TS EAMCET. Please visit our official website for complete details.
+admission,When is admission starting,Admissions are based on TS EAMCET. Please visit our official website for complete details.
+fees,What is the fee structure?,"B.Tech fee is approximately ₹1,00,000 per year. Scholarships are available for meritorious students."
+fees,How much is B.Tech fees?,"B.Tech fee is approximately ₹1,00,000 per year. Scholarships are available for meritorious students."
+fees,Fee details,"B.Tech fee is approximately ₹1,00,000 per year. Scholarships are available for meritorious students."
+fees,Scholarship available?,"B.Tech fee is approximately ₹1,00,000 per year. Scholarships are available for meritorious students."
+courses,What courses are available?,"We offer B.Tech in CSE, ECE, Mechanical, Civil, IT and many more."
+courses,List of courses,"We offer B.Tech in CSE, ECE, Mechanical, Civil, IT and many more."
+courses,B.Tech branches,"We offer B.Tech in CSE, ECE, Mechanical, Civil, IT and many more."
+courses,What is offered in CSE,"We offer B.Tech in CSE, ECE, Mechanical, Civil, IT and many more."
+placement,How is placement?,Our placement record is excellent. Many companies visit our campus every year.
+placement,Placement record,Our placement record is excellent. Many companies visit our campus every year.
+placement,Average package,Our placement record is excellent. Many companies visit our campus every year.
+goodbye,Bye,Thank you! Have a great day!
+goodbye,Thank you,Thank you! Have a great day!
+goodbye,See you later,Thank you! Have a great day!
+goodbye,Goodbye,Thank you! Have a great day!

@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening", "How are you"],
+      "responses": ["Hello! How can I help you today?", "Hi there! Welcome to Osmania University Chatbot."]
+    },
+    {
+      "tag": "admission",
+      "patterns": ["What is the admission process?", "How to apply for B.Tech?", "Admission dates?", "Eligibility criteria", "When is admission starting"],
+      "responses": ["Admissions are based on TS EAMCET. Please visit our official website for complete details."]
+    },
+    {
+      "tag": "fees",
+      "patterns": ["What is the fee structure?", "How much is B.Tech fees?", "Fee details", "Scholarship available?"],
+      "responses": ["B.Tech fee is approximately ₹1,00,000 per year. Scholarships are available for meritorious students."]
+    },
+    {
+      "tag": "courses",
+      "patterns": ["What courses are available?", "List of courses", "B.Tech branches", "What is offered in CSE"],
+      "responses": ["We offer B.Tech in CSE, ECE, Mechanical, Civil, IT and many more."]
+    },
+    {
+      "tag": "placement",
+      "patterns": ["How is placement?", "Placement record", "Average package"],
+      "responses": ["Our placement record is excellent. Many companies visit our campus every year."]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Thank you", "See you later", "Goodbye"],
+      "responses": ["Thank you! Have a great day!", "Goodbye! Feel free to ask anytime."]
+    }
+  ]
+}
