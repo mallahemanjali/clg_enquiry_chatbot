@@ -1,13 +1,5 @@
-__pycache__/
-.ipynb_checkpoints/
-
-*.pkl
-*.joblib
-
 venv/
-env/
-
-.vscode/
-.idea/
+.ipynb_checkpoints/
+__pycache__/
 
 *.pyc
